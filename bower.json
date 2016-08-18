@@ -1,0 +1,17 @@
+{
+    "name": "stardosstencil-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/stardosstencil-bower.git"
+    },
+    "description": "Stardos Stencil font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
